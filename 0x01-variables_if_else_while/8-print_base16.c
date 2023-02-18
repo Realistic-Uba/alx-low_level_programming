@@ -17,7 +17,7 @@ int main(void)
 		}
 		else
 		{
-			puutchar(num - 10 + 'a');
+			putchar(num - 10 + 'a');
 		}
 		num++;
 	}
